@@ -1,0 +1,28 @@
+{
+  "name": "async-process",
+  "version": "0.0.1",
+  "description": "A simple Node.js module that let you perform multiples async tasks. Once they are completed, you can call a callback function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example":"node ./example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popojargo/async-process.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "callback",
+    "async",
+    "tasks",
+    "process"
+  ],
+  "author": "Alexis Côté",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/popojargo/async-process/issues"
+  },
+  "homepage": "https://github.com/popojargo/async-process#readme"
+}
